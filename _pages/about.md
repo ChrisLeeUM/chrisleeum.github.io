@@ -44,4 +44,4 @@ Lexiong Huang, Ruihua Han, Guoliang Li, ***He Li***, Shuai Wang, Yang Wang, and 
 
 ## <font color=CornflowerBlue>Services:</font> ##
 
-Reviewer of IEEE Open Journal of the Communications Society (OJ-COMS).
+Reviewer of IROS, IEEE Open Journal of the Communications Society (JCR Q1).
