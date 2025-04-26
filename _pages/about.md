@@ -38,7 +38,7 @@ He Li received his BEng degree in Electronic Science & Technology from the South
 
 Shiyao Zhang\*, ***He Li***\*, Shengyu Zhang, Shuai Wang*, Derrick Wing Kwan Ng, Chengzhong Xu. "Multi-Uncertainty Aware Autonomous Cooperative Planning." In 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). [[paper](https://arxiv.org/pdf/2411.00413)]
 
-Chenxuan Liu, ***He Li***, Zongze Li, Shuai Wang, Wei Xu, Kejiang Ye, Derrick Wing Kwan Ng, Chengzhong Xu. "Green Robotic Mixed Reality with Gaussian Splatting," in 2025 IEEE International Conference on Computer Communications (INFOCOM) Workshop.
+Chenxuan Liu, ***He Li***, Zongze Li, Shuai Wang, Wei Xu, Kejiang Ye, Derrick Wing Kwan Ng, Chengzhong Xu. "Green Robotic Mixed Reality with Gaussian Splatting," in 2025 IEEE International Conference on Computer Communications (INFOCOM) Workshop [[paper](https://arxiv.org/abs/2504.13697)].
 
 Lexiong Huang, Ruihua Han, Guoliang Li, ***He Li***, Shuai Wang, Yang Wang, and Chengzhong Xu. "iCOIL: Scenario Aware Autonomous Parking Via Integrated Constrained Optimization and Imitation Learning," in IEEE ICDCS Workshops, HK, 2023. [[paper](https://arxiv.org/abs/2305.13663)]
 
