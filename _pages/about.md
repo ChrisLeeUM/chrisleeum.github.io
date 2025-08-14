@@ -14,6 +14,8 @@ He Li received his BEng degree in Electronic Science & Technology from the South
 
 ## <font color=Red>News:</font> ##
 
+- 2025-08 &emsp; One paper got accepted by TCCN (JCR Q1, IF=7.0)!
+
 - 2025-02 &emsp; One paper got accepted by INFOCOM 2025 Workshop!
 
 - 2024-06 &emsp; One paper got accepted by IROS 2024!
@@ -34,7 +36,9 @@ He Li received his BEng degree in Electronic Science & Technology from the South
 
 ## <font color=CornflowerBlue>Publications:</font> ##
 
-***He Li***, Ruihua Han, Zirui Zhao, Wei Xu, Qi Hao, Shuai Wang, Chengzhong Xu. "Seamless Virtual Reality with Integrated Synchronizer and Synthesizer for Autonomous Driving,"  IEEE Robotics and Automation Letters, Feb. 2024. [[paper](https://arxiv.org/abs/2403.03541)] [[video](https://youtu.be/HTD3G7W_fto?si=m66kOv2sDVSWkA1N)]
+***He Li***, Ruihua Han, Zirui Zhao, Wei Xu, Qi Hao, Shuai Wang, Chengzhong Xu. "Seamless Virtual Reality with Integrated Synchronizer and Synthesizer for Autonomous Driving,"  IEEE Robotics and Automation Letters, Feb. 2024. (JCR Q1, IF=5.3) [[paper](https://arxiv.org/abs/2403.03541)] [[video](https://youtu.be/HTD3G7W_fto?si=m66kOv2sDVSWkA1N)]
+
+Chenxuan Liu\*, ***He Li***\*, Zongze Li, Shuai Wang, Wei Xu, Kejiang Ye, Derrick Wing Kwan Ng, Chengzhong Xu, "Communication Efficient Robotic Mixed Reality with Gaussian Splatting Cross-Layer Optimization" IEEETransactions on CognitiveCommunicationsand Networking, Aug. 2025. (JCR Q1, IF=7.0) [[paper](https://arxiv.org/abs/2508.08624)]
 
 Shiyao Zhang\*, ***He Li***\*, Shengyu Zhang, Shuai Wang*, Derrick Wing Kwan Ng, Chengzhong Xu. "Multi-Uncertainty Aware Autonomous Cooperative Planning." In 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). [[paper](https://arxiv.org/pdf/2411.00413)]
 
