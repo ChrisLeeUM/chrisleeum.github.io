@@ -8,25 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-He Li is currently a Ph.D. student in Computer Science at University of Macau. His research interests lie in autonomous driving and virtual reality. He is advised by [Prof. Chengzhong Xu (FIEEE)](https://www.fst.um.edu.mo/personal/czxu/) and works closely with [Prof. Shuai Wang](https://bearswang.github.io/).
+He Li is currently a Ph.D. student in Computer Science at University of Macau. His research interests lie in autonomous driving and virtual reality. He is advised by [Prof. Chengzhong Xu (FIEEE)](https://www.fst.um.edu.mo/personal/czxu/) and [Prof. Shuai Wang](https://bearswang.github.io/).
 
 He Li received his BEng degree in Electronic Science & Technology from the Southeast University in 2020, and the MSc degree in Computer Science from the University of Macau in 2024. Also, he holds the qualification of embedded system development engineer. Before joining UM, he works as a software engineer at Vivo and Nokia, successively.
 
 ## <font color=Red>News:</font> ##
 
+- 2025-10 &emsp; He Li is invited to give a presentation on IOTSC Postgraduate Student Forum! [[events](https://skliotsc.um.edu.mo/event/postgraduate-student-forum-intelligent-transportation-2/)]
+
 - 2025-08 &emsp; One paper got accepted by TCCN (JCR Q1, IF=7.0)!
 
 - 2025-02 &emsp; One paper got accepted by INFOCOM 2025 Workshop!
-
-- 2024-06 &emsp; One paper got accepted by IROS 2024!
-
-- 2024-05 &emsp; He Li was awarded the FST Best MSc Student Award (top 5%). [[news](https://www.fst.um.edu.mo/news/stepping-out-of-the-comfort-zone-lis-journey-of-pursuing-his-dream-in-artificial-intelligence/)]
 
 ## <font color=CornflowerBlue>Awards:</font> ##
 
 - Award of Poster Presentation (top 3), Macao Symposium on Cloud Computing and Intelligent Driving (CCID), 2024
 
-- Best MSc Student Award (top 5%), UM Faculty of Science and Technology, 2024
+- Best MSc Student Award (top 5%), UM Faculty of Science and Technology, 2024 [[news](https://www.fst.um.edu.mo/news/stepping-out-of-the-comfort-zone-lis-journey-of-pursuing-his-dream-in-artificial-intelligence/)]
 
 - Best Student Paper Award, IEEE ICDCS Workshop, 2023
 
