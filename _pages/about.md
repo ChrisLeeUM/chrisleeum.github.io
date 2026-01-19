@@ -8,17 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-He Li is currently a Ph.D. student in Computer Science at University of Macau. His research interests lie in autonomous driving and virtual reality. He is advised by [Prof. Chengzhong Xu (FIEEE)](https://www.fst.um.edu.mo/personal/czxu/) and [Prof. Shuai Wang](https://bearswang.github.io/).
+He Li is currently a Ph.D. student in Computer Science at University of Macau. His research interests lie in robot motion planning and autonomous driving. He is advised by [Prof. Chengzhong Xu (FIEEE)](https://www.fst.um.edu.mo/personal/czxu/) and [Prof. Shuai Wang](https://bearswang.github.io/).
 
 He Li received his BEng degree in Electronic Science & Technology from the Southeast University in 2020, and the MSc degree in Computer Science from the University of Macau in 2024. Also, he holds the qualification of embedded system development engineer. Before joining UM, he works as a software engineer at Vivo and Nokia, successively.
 
 ## <font color=Red>News:</font> ##
+- 2026-01 &emsp; One paper got accepted by ICASSP (CCF-B)!
 
 - 2025-10 &emsp; He Li is invited to give a presentation on IOTSC Postgraduate Student Forum! [[events](https://skliotsc.um.edu.mo/event/postgraduate-student-forum-intelligent-transportation-2/)]
 
 - 2025-08 &emsp; One paper got accepted by TCCN (JCR Q1, IF=7.0)!
-
-- 2025-02 &emsp; One paper got accepted by INFOCOM 2025 Workshop!
 
 ## <font color=CornflowerBlue>Awards:</font> ##
 
@@ -34,11 +33,13 @@ He Li received his BEng degree in Electronic Science & Technology from the South
 
 ## <font color=CornflowerBlue>Publications:</font> ##
 
-***He Li***, Ruihua Han, Zirui Zhao, Wei Xu, Qi Hao, Shuai Wang, Chengzhong Xu. "Seamless Virtual Reality with Integrated Synchronizer and Synthesizer for Autonomous Driving,"  IEEE Robotics and Automation Letters, Feb. 2024. (JCR Q1, IF=5.3) [[paper](https://arxiv.org/abs/2403.03541)] [[video](https://youtu.be/HTD3G7W_fto?si=m66kOv2sDVSWkA1N)]
+***He Li***, Zhaowei Chen, Rui Gao, Guoliang Li, Qi Hao, Shuai Wang, and Chengzhong Xu, “LLM-driven scenario-aware planning for autonomous driving,” IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP, CCF-B), Barcelona, Spain, May 2026.
+
+***He Li***, Ruihua Han, Zirui Zhao, Wei Xu, Qi Hao, Shuai Wang, Chengzhong Xu. "Seamless Virtual Reality with Integrated Synchronizer and Synthesizer for Autonomous Driving,"  IEEE Robotics and Automation Letters, Feb. 2024. (JCR Q1, IF=5.3, Presented at IROS2024) [[paper](https://arxiv.org/abs/2403.03541)] [[video](https://youtu.be/HTD3G7W_fto?si=m66kOv2sDVSWkA1N)]
 
 Chenxuan Liu\*, ***He Li***\*, Zongze Li, Shuai Wang, Wei Xu, Kejiang Ye, Derrick Wing Kwan Ng, Chengzhong Xu, "Communication Efficient Robotic Mixed Reality with Gaussian Splatting Cross-Layer Optimization" IEEETransactions on CognitiveCommunicationsand Networking, Aug. 2025. (JCR Q1, IF=7.0) [[paper](https://arxiv.org/abs/2508.08624)]
 
-Shiyao Zhang\*, ***He Li***\*, Shengyu Zhang, Shuai Wang*, Derrick Wing Kwan Ng, Chengzhong Xu. "Multi-Uncertainty Aware Autonomous Cooperative Planning." In 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). [[paper](https://arxiv.org/pdf/2411.00413)]
+Shiyao Zhang\*, ***He Li***\*, Shengyu Zhang, Shuai Wang*, Derrick Wing Kwan Ng, Chengzhong Xu. "Multi-Uncertainty Aware Autonomous Cooperative Planning." In 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS, CORE A). [[paper](https://arxiv.org/pdf/2411.00413)]
 
 Chenxuan Liu, ***He Li***, Zongze Li, Shuai Wang, Wei Xu, Kejiang Ye, Derrick Wing Kwan Ng, Chengzhong Xu. "Green Robotic Mixed Reality with Gaussian Splatting," in 2025 IEEE International Conference on Computer Communications (INFOCOM) Workshop [[paper](https://arxiv.org/abs/2504.13697)].
 
@@ -46,4 +47,4 @@ Lexiong Huang, Ruihua Han, Guoliang Li, ***He Li***, Shuai Wang, Yang Wang, and 
 
 ## <font color=CornflowerBlue>Services:</font> ##
 
-Reviewer of Transactions on Mobile Computing (TMC, JCR Q1, CCF A), IROS, IEEE Open Journal of the Communications Society (JCR Q1).
+Reviewer of IEEE Transactions on Mobile Computing, IEEE Robotics and Automation Letters, IROS, IEEE Open Journal of the Communications Society.
