@@ -33,7 +33,7 @@ He Li received his BEng degree in Electronic Science & Technology from the South
 
 ## <font color=CornflowerBlue>Publications:</font> ##
 
-***He Li***, Zhaowei Chen, Rui Gao, Guoliang Li, Qi Hao, Shuai Wang, and Chengzhong Xu, “LLM-driven scenario-aware planning for autonomous driving,” IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP, CCF-B), Barcelona, Spain, May 2026.
+***He Li***, Zhaowei Chen, Rui Gao, Guoliang Li, Qi Hao, Shuai Wang, and Chengzhong Xu, “LLM-driven scenario-aware planning for autonomous driving,” IEEE International Conference on Acoustics, Speech, and Signal Processing, Barcelona, Spain, May 2026. (ICASSP, CCF-B) [[paper](https://arxiv.org/abs/2601.21876)]
 
 ***He Li***, Ruihua Han, Zirui Zhao, Wei Xu, Qi Hao, Shuai Wang, Chengzhong Xu. "Seamless Virtual Reality with Integrated Synchronizer and Synthesizer for Autonomous Driving,"  IEEE Robotics and Automation Letters, Feb. 2024. (JCR Q1, IF=5.3, Presented at IROS2024) [[paper](https://arxiv.org/abs/2403.03541)] [[video](https://youtu.be/HTD3G7W_fto?si=m66kOv2sDVSWkA1N)]
 
