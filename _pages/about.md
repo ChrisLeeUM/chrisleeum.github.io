@@ -13,6 +13,8 @@ He Li is currently a Ph.D. student in Computer Science at University of Macau. H
 He Li received his BEng degree in Electronic Science & Technology from the Southeast University in 2020, and the MSc degree in Computer Science from the University of Macau in 2024. Also, he holds the qualification of embedded system development engineer. Before joining UM, he works as a software engineer at Vivo and Nokia, successively.
 
 ## <font color=Red>News:</font> ##
+- 2026-01 &emsp; One paper got accepted by ICRA (CORE A*)!
+
 - 2026-01 &emsp; One paper got accepted by ICASSP (CCF-B)!
 
 - 2025-10 &emsp; He Li is invited to give a presentation on IOTSC Postgraduate Student Forum! [[events](https://skliotsc.um.edu.mo/event/postgraduate-student-forum-intelligent-transportation-2/)]
@@ -33,7 +35,9 @@ He Li received his BEng degree in Electronic Science & Technology from the South
 
 ## <font color=CornflowerBlue>Publications:</font> ##
 
-***He Li***, Zhaowei Chen, Rui Gao, Guoliang Li, Qi Hao, Shuai Wang, and Chengzhong Xu, “LLM-driven scenario-aware planning for autonomous driving,” IEEE International Conference on Acoustics, Speech, and Signal Processing, Barcelona, Spain, May 2026. (ICASSP, CCF-B) [[paper](https://arxiv.org/abs/2601.21876)]
+***He Li***, Jian Sun, Chengyang Li, Guoliang Li, Qiyu Ruan, Shuai Wang, Chengzhong Xu, "Direct Contact-Tolerant Motion Planning With Vision Language Models," IEEE International Conference on Robotics & Automation (ICRA, CORE A*), Vienna, Austria, June 2026.
+
+***He Li***, Zhaowei Chen, Rui Gao, Guoliang Li, Qi Hao, Shuai Wang, and Chengzhong Xu, "LLM-driven scenario-aware planning for autonomous driving," IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP, CCF-B), Barcelona, Spain, May 2026. [[paper](https://arxiv.org/abs/2601.21876)]
 
 ***He Li***, Ruihua Han, Zirui Zhao, Wei Xu, Qi Hao, Shuai Wang, Chengzhong Xu. "Seamless Virtual Reality with Integrated Synchronizer and Synthesizer for Autonomous Driving,"  IEEE Robotics and Automation Letters, Feb. 2024. (JCR Q1, IF=5.3, Presented at IROS2024) [[paper](https://arxiv.org/abs/2403.03541)] [[video](https://youtu.be/HTD3G7W_fto?si=m66kOv2sDVSWkA1N)]
 
