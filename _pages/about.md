@@ -33,21 +33,70 @@ He Li received his BEng degree in Electronic Science & Technology from the South
 
 - The First Prize in 2018 Electronic Design Contest for Jiangsu Provincial College Students (TI Cup), Aug. 2018
 
-## <font color=CornflowerBlue>Publications:</font> ##
+## <font color=CornflowerBlue>Selected Publications:</font> ##
 
-***He Li***, Jian Sun, Chengyang Li, Guoliang Li, Qiyu Ruan, Shuai Wang, Chengzhong Xu, "Direct Contact-Tolerant Motion Planning With Vision Language Models," IEEE International Conference on Robotics & Automation (ICRA, CORE A*), Vienna, Austria, June 2026.
+<div style="display:flex; align-items:flex-start; margin-bottom:1.5em;">
+  <video width="200" autoplay loop muted playsinline
+         style="margin-right:16px; border-radius:6px;">
+    <source src="../videos/DCT.mp4" type="video/mp4">
+  </video>
+  <div>
+    <span style="font-size:1.2em; font-weight:600;">
+  Direct Contact-Tolerant Motion Planning With Vision Language Models
+    </span><br>
+    <strong>He Li</strong>, Jian Sun, Chengyang Li, Guoliang Li, Qiyu Ruan, Shuai Wang, Chengzhong Xu,<br>
+    <em>IEEE International Conference on Robotics & Automation (ICRA) </em>, Vienna, Austria, May 2026.
+  </div>
+</div>
 
-***He Li***, Zhaowei Chen, Rui Gao, Guoliang Li, Qi Hao, Shuai Wang, and Chengzhong Xu, "LLM-driven scenario-aware planning for autonomous driving," IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP, CCF-B), Barcelona, Spain, May 2026. [[paper](https://arxiv.org/abs/2601.21876)]
+<div style="display:flex; align-items:flex-start; margin-bottom:1.5em;">
+  <video width="200" autoplay loop muted playsinline
+         style="margin-right:16px; border-radius:6px;">
+    <source src="../videos/SVR.mp4" type="video/mp4">
+  </video>
+  <div>
+    <span style="font-size:1.2em; font-weight:600;">
+  Seamless Virtual Reality with Integrated Synchronizer and Synthesizer for Autonomous Driving
+    </span><br>
+    <strong>He Li</strong>, Ruihua Han, Zirui Zhao, Wei Xu, Qi Hao, Shuai Wang, Chengzhong Xu,<br>
+    <em>IEEE Robotics and Automation Letters</em>, Feb. 2024.
+    [<a href="https://arxiv.org/abs/2403.03541" target="_blank">paper</a>]
+  </div>
+</div>
 
-***He Li***, Ruihua Han, Zirui Zhao, Wei Xu, Qi Hao, Shuai Wang, Chengzhong Xu. "Seamless Virtual Reality with Integrated Synchronizer and Synthesizer for Autonomous Driving,"  IEEE Robotics and Automation Letters, Feb. 2024. (JCR Q1, IF=5.3, Presented at IROS2024) [[paper](https://arxiv.org/abs/2403.03541)] [[video](https://youtu.be/HTD3G7W_fto?si=m66kOv2sDVSWkA1N)]
+<div style="display:flex; align-items:center; margin-bottom:1.5em;">
+  <img src="../videos/LAP.png" width="200"
+       style="margin-right:16px; border-radius:6px;" />
+  <div>
+    <span style="
+      font-size:1.2em;
+      font-weight:600;
+      line-height:1.35;
+      display:block;
+      margin-bottom:0.2em;
+    ">
+      LLM-driven scenario-aware planning for autonomous driving
+    </span>
+    <strong>He Li</strong>, Zhaowei Chen, Rui Gao, Guoliang Li, Qi Hao, Shuai Wang, and Chengzhong Xu,<br>
+    <em>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</em>, Barcelona, Spain, May 2026.
+    [<a href="https://arxiv.org/abs/2601.21876" target="_blank">paper</a>]
+  </div>
+</div>
 
-Chenxuan Liu\*, ***He Li***\*, Zongze Li, Shuai Wang, Wei Xu, Kejiang Ye, Derrick Wing Kwan Ng, Chengzhong Xu, "Communication Efficient Robotic Mixed Reality with Gaussian Splatting Cross-Layer Optimization" IEEETransactions on CognitiveCommunicationsand Networking, Aug. 2025. (JCR Q1, IF=7.0) [[paper](https://arxiv.org/abs/2508.08624)]
-
-Shiyao Zhang\*, ***He Li***\*, Shengyu Zhang, Shuai Wang*, Derrick Wing Kwan Ng, Chengzhong Xu. "Multi-Uncertainty Aware Autonomous Cooperative Planning." In 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS, CORE A). [[paper](https://arxiv.org/pdf/2411.00413)]
-
-Chenxuan Liu, ***He Li***, Zongze Li, Shuai Wang, Wei Xu, Kejiang Ye, Derrick Wing Kwan Ng, Chengzhong Xu. "Green Robotic Mixed Reality with Gaussian Splatting," in 2025 IEEE International Conference on Computer Communications (INFOCOM) Workshop [[paper](https://arxiv.org/abs/2504.13697)].
-
-Lexiong Huang, Ruihua Han, Guoliang Li, ***He Li***, Shuai Wang, Yang Wang, and Chengzhong Xu. "iCOIL: Scenario Aware Autonomous Parking Via Integrated Constrained Optimization and Imitation Learning," in IEEE ICDCS Workshops, HK, 2023. [[paper](https://arxiv.org/abs/2305.13663)]
+<div style="display:flex; align-items:flex-start; margin-bottom:1.5em;">
+  <video width="200" autoplay loop muted playsinline
+         style="margin-right:16px; border-radius:6px;">
+    <source src="../videos/IROS_uncertainty.mp4" type="video/mp4">
+  </video>
+  <div>
+    <span style="font-size:1.2em; font-weight:600;">
+  Multi-Uncertainty Aware Autonomous Cooperative Planning
+    </span><br>
+    Shiyao Zhang*, <strong>He Li*</strong>, Shengyu Zhang, Shuai Wang*, Derrick Wing Kwan Ng, Chengzhong Xu,<br>
+    <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>,  Abu Dhabi, UAE, Oct. 2024.
+    [<a href="https://arxiv.org/pdf/2411.00413" target="_blank">paper</a>]
+  </div>
+</div>
 
 ## <font color=CornflowerBlue>Services:</font> ##
 
