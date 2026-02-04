@@ -24,7 +24,7 @@ He Li received his BEng degree in Electronic Science & Technology from the South
 ## <font color=CornflowerBlue>Selected Publications:</font> ##
 
 <div style="display:flex; align-items:flex-start; margin-bottom:1.5em;">
-  <video width="200" autoplay loop muted playsinline
+  <video width="300" autoplay loop muted playsinline
          style="margin-right:16px; border-radius:6px;">
     <source src="../videos/DCT.mp4" type="video/mp4">
   </video>
@@ -38,7 +38,7 @@ He Li received his BEng degree in Electronic Science & Technology from the South
 </div>
 
 <div style="display:flex; align-items:flex-start; margin-bottom:1.5em;">
-  <video width="200" autoplay loop muted playsinline
+  <video width="300" autoplay loop muted playsinline
          style="margin-right:16px; border-radius:6px;">
     <source src="../videos/SVR.mp4" type="video/mp4">
   </video>
@@ -53,7 +53,7 @@ He Li received his BEng degree in Electronic Science & Technology from the South
 </div>
 
 <div style="display:flex; align-items:center; margin-bottom:1.5em;">
-  <img src="../videos/LAP.png" width="200"
+  <img src="../videos/LAP.png" width="300"
        style="margin-right:16px; border-radius:6px;" />
   <div>
     <span style="
@@ -72,7 +72,7 @@ He Li received his BEng degree in Electronic Science & Technology from the South
 </div>
 
 <div style="display:flex; align-items:flex-start; margin-bottom:1.5em;">
-  <video width="200" autoplay loop muted playsinline
+  <video width="300" autoplay loop muted playsinline
          style="margin-right:16px; border-radius:6px;">
     <source src="../videos/IROS_uncertainty.mp4" type="video/mp4">
   </video>
