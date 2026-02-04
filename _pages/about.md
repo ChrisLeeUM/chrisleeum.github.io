@@ -21,18 +21,6 @@ He Li received his BEng degree in Electronic Science & Technology from the South
 
 - 2025-08 &emsp; One paper got accepted by TCCN (JCR Q1, IF=7.0)!
 
-## <font color=CornflowerBlue>Awards:</font> ##
-
-- Award of Poster Presentation (top 3), Macao Symposium on Cloud Computing and Intelligent Driving (CCID), 2024
-
-- Best MSc Student Award (top 5%), UM Faculty of Science and Technology, 2024 [[news](https://www.fst.um.edu.mo/news/stepping-out-of-the-comfort-zone-lis-journey-of-pursuing-his-dream-in-artificial-intelligence/)]
-
-- Best Student Paper Award, IEEE ICDCS Workshop, 2023
-
-- The First Prize in National College Students FPGA Innovative Design Invitational Competition, Dec. 2018
-
-- The First Prize in 2018 Electronic Design Contest for Jiangsu Provincial College Students (TI Cup), Aug. 2018
-
 ## <font color=CornflowerBlue>Selected Publications:</font> ##
 
 <div style="display:flex; align-items:flex-start; margin-bottom:1.5em;">
@@ -97,6 +85,18 @@ He Li received his BEng degree in Electronic Science & Technology from the South
     [<a href="https://arxiv.org/pdf/2411.00413" target="_blank">paper</a>]
   </div>
 </div>
+
+## <font color=CornflowerBlue>Awards:</font> ##
+
+- Award of Poster Presentation (top 3), Macao Symposium on Cloud Computing and Intelligent Driving (CCID), 2024
+
+- Best MSc Student Award (top 5%), UM Faculty of Science and Technology, 2024 [[news](https://www.fst.um.edu.mo/news/stepping-out-of-the-comfort-zone-lis-journey-of-pursuing-his-dream-in-artificial-intelligence/)]
+
+- Best Student Paper Award, IEEE ICDCS Workshop, 2023
+
+- The First Prize in National College Students FPGA Innovative Design Invitational Competition, Dec. 2018
+
+- The First Prize in 2018 Electronic Design Contest for Jiangsu Provincial College Students (TI Cup), Aug. 2018
 
 ## <font color=CornflowerBlue>Services:</font> ##
 
