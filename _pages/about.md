@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-He Li is currently a Ph.D. student in Computer Science at University of Macau. His research interests lie in robot motion planning and autonomous driving. He is advised by [Prof. Chengzhong Xu (FIEEE)](https://www.fst.um.edu.mo/personal/czxu/) and [Prof. Shuai Wang](https://bearswang.github.io/).
+He Li is currently a Ph.D. student in Computer Science at University of Macau. His research interests lie in robot motion planning and autonomous driving. He is advised by [Prof. Chengzhong Xu (FIEEE)](https://www.fst.um.edu.mo/personal/czxu/) and [Prof. Shuai Wang](https://people.ucas.ac.cn/~shuaiwang).
 
 He Li received his BEng degree in Electronic Science & Technology from the Southeast University in 2020, and the MSc degree in Computer Science from the University of Macau in 2024. Also, he holds the qualification of embedded system development engineer. Before joining UM, he works as a software engineer at Vivo and Nokia, successively.
 
@@ -34,6 +34,8 @@ He Li received his BEng degree in Electronic Science & Technology from the South
     </span><br>
     <strong>He Li</strong>, Jian Sun, Chengyang Li, Guoliang Li, Qiyu Ruan, Shuai Wang, Chengzhong Xu,<br>
     <em>IEEE International Conference on Robotics & Automation (ICRA) </em>, Vienna, Austria, May 2026.
+    [<a href="https://arxiv.org/abs/2603.05017" target="_blank">paper</a>]
+    [<a href="https://github.com/ChrisLeeUM/DCT" target="_blank">code</a>]
   </div>
 </div>
 
@@ -100,4 +102,4 @@ He Li received his BEng degree in Electronic Science & Technology from the South
 
 ## <font color=CornflowerBlue>Services:</font> ##
 
-Reviewer of IEEE Transactions on Mobile Computing, IEEE Robotics and Automation Letters, IROS, IEEE Open Journal of the Communications Society.
+Reviewer of IEEE Transactions on Systems, Man, and Cybernetics (T-SMC), IEEE Transactions on Mobile Computing (T-MC), IEEE Robotics and Automation Letters (R-AL), IROS, IEEE Open Journal of the Communications Society.
