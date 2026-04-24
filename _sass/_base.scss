@@ -254,6 +254,54 @@ figcaption {
   }
 }
 
+.publication-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.publication-card--centered {
+  align-items: center;
+}
+
+.publication-card__media {
+  display: block;
+  width: min(300px, 100%);
+  max-width: 100%;
+  flex: 0 1 300px;
+  border-radius: 6px;
+  object-fit: cover;
+}
+
+.publication-card__content {
+  flex: 1 1 18rem;
+  min-width: 0;
+}
+
+.publication-card__title {
+  font-size: 1.2em;
+  font-weight: 600;
+  line-height: 1.35;
+}
+
+.publication-card__title--block {
+  display: block;
+  margin-bottom: 0.2em;
+}
+
+@include breakpoint(max-width $medium) {
+  .publication-card {
+    flex-wrap: wrap;
+  }
+
+  .publication-card__media {
+    flex-basis: 100%;
+    width: 100%;
+    margin-right: 0;
+  }
+}
+
 
 /* Fix IE9 SVG bug */
 

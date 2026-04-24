@@ -23,13 +23,12 @@ He Li received his BEng degree in Electronic Science & Technology from the South
 
 ## <font color=CornflowerBlue>Selected Publications:</font> ##
 
-<div style="display:flex; align-items:flex-start; margin-bottom:1.5em;">
-  <video width="300" autoplay loop muted playsinline
-         style="margin-right:16px; border-radius:6px;">
+<div class="publication-card">
+  <video class="publication-card__media" controls autoplay loop muted playsinline preload="metadata">
     <source src="../videos/DCT.mp4" type="video/mp4">
   </video>
-  <div>
-    <span style="font-size:1.2em; font-weight:600;">
+  <div class="publication-card__content">
+    <span class="publication-card__title">
   Direct Contact-Tolerant Motion Planning With Vision Language Models
     </span><br>
     <strong>He Li</strong>, Jian Sun, Chengyang Li, Guoliang Li, Qiyu Ruan, Shuai Wang, Chengzhong Xu,<br>
@@ -39,13 +38,12 @@ He Li received his BEng degree in Electronic Science & Technology from the South
   </div>
 </div>
 
-<div style="display:flex; align-items:flex-start; margin-bottom:1.5em;">
-  <video width="300" autoplay loop muted playsinline
-         style="margin-right:16px; border-radius:6px;">
+<div class="publication-card">
+  <video class="publication-card__media" controls autoplay loop muted playsinline preload="metadata">
     <source src="../videos/SVR.mp4" type="video/mp4">
   </video>
-  <div>
-    <span style="font-size:1.2em; font-weight:600;">
+  <div class="publication-card__content">
+    <span class="publication-card__title">
   Seamless Virtual Reality with Integrated Synchronizer and Synthesizer for Autonomous Driving
     </span><br>
     <strong>He Li</strong>, Ruihua Han, Zirui Zhao, Wei Xu, Qi Hao, Shuai Wang, Chengzhong Xu,<br>
@@ -54,17 +52,10 @@ He Li received his BEng degree in Electronic Science & Technology from the South
   </div>
 </div>
 
-<div style="display:flex; align-items:center; margin-bottom:1.5em;">
-  <img src="../videos/LAP.png" width="300"
-       style="margin-right:16px; border-radius:6px;" />
-  <div>
-    <span style="
-      font-size:1.2em;
-      font-weight:600;
-      line-height:1.35;
-      display:block;
-      margin-bottom:0.2em;
-    ">
+<div class="publication-card publication-card--centered">
+  <img src="../videos/LAP.png" class="publication-card__media" alt="Scenario-aware planning illustration" />
+  <div class="publication-card__content">
+    <span class="publication-card__title publication-card__title--block">
       LLM-driven scenario-aware planning for autonomous driving
     </span>
     <strong>He Li</strong>, Zhaowei Chen, Rui Gao, Guoliang Li, Qi Hao, Shuai Wang, and Chengzhong Xu,<br>
@@ -73,13 +64,12 @@ He Li received his BEng degree in Electronic Science & Technology from the South
   </div>
 </div>
 
-<div style="display:flex; align-items:flex-start; margin-bottom:1.5em;">
-  <video width="300" autoplay loop muted playsinline
-         style="margin-right:16px; border-radius:6px;">
+<div class="publication-card">
+  <video class="publication-card__media" controls autoplay loop muted playsinline preload="metadata">
     <source src="../videos/IROS_uncertainty.mp4" type="video/mp4">
   </video>
-  <div>
-    <span style="font-size:1.2em; font-weight:600;">
+  <div class="publication-card__content">
+    <span class="publication-card__title">
   Multi-Uncertainty Aware Autonomous Cooperative Planning
     </span><br>
     Shiyao Zhang*, <strong>He Li*</strong>, Shengyu Zhang, Shuai Wang*, Derrick Wing Kwan Ng, Chengzhong Xu,<br>
