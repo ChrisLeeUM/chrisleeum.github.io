@@ -98,41 +98,32 @@ Reviewer of IEEE Transactions on Systems, Man, and Cybernetics (T-SMC), IEEE Tra
 
 ## <font color=CornflowerBlue>Academic Activities:</font> ##
 
-<div class="activity-carousel" data-activity-carousel>
-  <button class="activity-carousel__button activity-carousel__button--previous" type="button" aria-label="Previous activity">&#10094;</button>
+<div class="activity-gallery">
+  <figure class="activity-card">
+    <a href="/images/ICRA_pre.jpg">
+      <img src="/images/ICRA_pre.jpg" alt="Discussing direct contact-tolerant motion planning at ICRA 2026" loading="lazy" />
+    </a>
+    <figcaption>Research discussion at ICRA 2026, Vienna, Austria.</figcaption>
+  </figure>
 
-  <div class="activity-carousel__viewport">
-    <div class="activity-carousel__track">
-      <figure class="activity-slide">
-        <a href="/images/ICRA_pre.jpg">
-          <img src="/images/ICRA_pre.jpg" alt="Discussing direct contact-tolerant motion planning at ICRA 2026" loading="lazy" />
-        </a>
-        <figcaption>Research discussion at ICRA 2026, Vienna, Austria.</figcaption>
-      </figure>
+  <figure class="activity-card">
+    <a href="/images/visit_manifold.jpg">
+      <img src="/images/visit_manifold.jpg" alt="Visit to Manifold Tech in 2026" loading="lazy" />
+    </a>
+    <figcaption>Visit to Manifold Tech, 2026.</figcaption>
+  </figure>
 
-      <figure class="activity-slide">
-        <a href="/images/visit_manifold.jpg">
-          <img src="/images/visit_manifold.jpg" alt="Visit to Manifold Tech in 2026" loading="lazy" />
-        </a>
-        <figcaption>Visit to Manifold Tech, 2026.</figcaption>
-      </figure>
+  <figure class="activity-card">
+    <a href="/images/best_student_with_prof_XU.jpg">
+      <img src="/images/best_student_with_prof_XU.jpg" alt="Best MSc Student Award with Professor Cheng-Zhong Xu in 2024" loading="lazy" />
+    </a>
+    <figcaption>Best MSc Student Award with Prof. Cheng-Zhong Xu, 2024.</figcaption>
+  </figure>
 
-      <figure class="activity-slide">
-        <a href="/images/best_student_with_prof_XU.jpg">
-          <img src="/images/best_student_with_prof_XU.jpg" alt="Best MSc Student Award with Professor Cheng-Zhong Xu in 2024" loading="lazy" />
-        </a>
-        <figcaption>Best MSc Student Award with Prof. Cheng-Zhong Xu, 2024.</figcaption>
-      </figure>
-
-      <figure class="activity-slide">
-        <a href="/images/IROS_pre.jpg">
-          <img src="/images/IROS_pre.jpg" alt="Oral presentation at IROS 2024" loading="lazy" />
-        </a>
-        <figcaption>Oral presentation at IROS 2024, Abu Dhabi, UAE.</figcaption>
-      </figure>
-    </div>
-  </div>
-
-  <button class="activity-carousel__button activity-carousel__button--next" type="button" aria-label="Next activity">&#10095;</button>
-  <div class="activity-carousel__dots" aria-label="Choose an activity"></div>
+  <figure class="activity-card">
+    <a href="/images/IROS_pre.jpg">
+      <img src="/images/IROS_pre.jpg" alt="Oral presentation at IROS 2024" loading="lazy" />
+    </a>
+    <figcaption>Oral presentation at IROS 2024, Abu Dhabi, UAE.</figcaption>
+  </figure>
 </div>
