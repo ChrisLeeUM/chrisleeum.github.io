@@ -13,15 +13,15 @@ He Li is currently a Ph.D. student in Computer Science at University of Macau. H
 He Li received his BEng degree in Electronic Science & Technology from the Southeast University in 2020, and the MS degree in Computer Science from the University of Macau in 2024. Also, he holds the qualification of embedded system development engineer. Before joining UM, he works as a software engineer at Vivo and Nokia, successively.
 
 ## <font color=Red>News:</font> ##
-- 2026-06 &emsp; He Li attended the ICRA 2026, and presented the DCT paper.
+- 2026-06 &emsp; He Li attended the ICRA 2026 and presented the DCT paper.
 
-- 2026-01 &emsp; One paper got accepted by ICRA (CORE A*)!
+- 2026-01 &emsp; One paper got accepted by ICRA!
 
-- 2026-01 &emsp; One paper got accepted by ICASSP (CCF-B)!
+- 2026-01 &emsp; One paper got accepted by ICASSP!
 
 - 2025-10 &emsp; He Li is invited to give a presentation on IOTSC Postgraduate Student Forum! [[events](https://skliotsc.um.edu.mo/event/postgraduate-student-forum-intelligent-transportation-2/)]
 
-- 2025-08 &emsp; One paper got accepted by TCCN (JCR Q1, IF=7.0)!
+- 2025-08 &emsp; One paper got accepted by T-CCN (JCR Q1, IF=7.0)!
 
 ## <font color=CornflowerBlue>Selected Publications:</font> ##
 

@@ -53,7 +53,7 @@ author_profile: true
 <ol class="publication-list">
   <li class="publication-item">
     <div class="publication-title">Communication Efficient Robotic Mixed Reality With Gaussian Splatting Cross-Layer Optimization</div>
-    <div class="publication-authors">Chenxuan Liu, <strong>He Li</strong>, Zongze Li, Shuai Wang, Wei Xu, Kejiang Ye, Derrick Wing Kwan Ng, Chengzhong Xu</div>
+    <div class="publication-authors">Chenxuan Liu*, <strong>He Li*</strong>, Zongze Li, Shuai Wang, Wei Xu, Kejiang Ye, Derrick Wing Kwan Ng, Chengzhong Xu</div>
     <div class="publication-venue"><em>IEEE Transactions on Cognitive Communications and Networking</em>, 2025.</div>
     <div class="publication-links">
       <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hhlg6FUAAAAJ&citation_for_view=hhlg6FUAAAAJ:qjMakFHDy7sC" target="_blank" rel="noopener noreferrer">Scholar</a>
