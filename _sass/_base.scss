@@ -290,20 +290,36 @@ figcaption {
   margin-bottom: 0.2em;
 }
 
-.activity-gallery {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 1.25rem;
-  margin: 1.25rem 0 2rem;
+.activity-carousel {
+  position: relative;
+  max-width: 680px;
+  margin: 1.25rem auto 2rem;
+  padding: 0 2.5rem 1.75rem;
 }
 
-.activity-card {
-  margin: 0;
-  overflow: hidden;
+.activity-carousel__viewport {
+  overflow-x: auto;
   border: 1px solid $border-color;
   border-radius: 7px;
   background: #fff;
   box-shadow: 0 2px 8px rgba(#000, 0.08);
+  scroll-behavior: smooth;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+.activity-carousel__track {
+  display: flex;
+}
+
+.activity-slide {
+  min-width: 100%;
+  margin: 0;
+  scroll-snap-align: start;
 
   a {
     display: block;
@@ -313,22 +329,74 @@ figcaption {
   img {
     display: block;
     width: 100%;
-    height: 220px;
+    height: 340px;
     margin: 0;
-    object-fit: cover;
-    transition: transform 0.2s ease;
-  }
-
-  a:hover img {
-    transform: scale(1.02);
+    object-fit: contain;
+    background: $lighter-gray;
   }
 
   figcaption {
-    padding: 0.75rem 0.9rem;
+    min-height: 3.5em;
+    padding: 0.7rem 0.9rem;
     color: $text-color;
     font-size: 0.8em;
     font-style: normal;
     line-height: 1.45;
+    text-align: center;
+  }
+}
+
+.activity-carousel__button {
+  position: absolute;
+  top: 165px;
+  z-index: 2;
+  width: 2rem;
+  height: 2rem;
+  padding: 0;
+  border: 1px solid $border-color;
+  border-radius: 50%;
+  color: $primary-color;
+  background: #fff;
+  box-shadow: 0 1px 5px rgba(#000, 0.12);
+  cursor: pointer;
+  line-height: 1;
+
+  &:hover,
+  &:focus {
+    color: #fff;
+    background: $primary-color;
+  }
+}
+
+.activity-carousel__button--previous {
+  left: 0;
+}
+
+.activity-carousel__button--next {
+  right: 0;
+}
+
+.activity-carousel__dots {
+  position: absolute;
+  right: 2.5rem;
+  bottom: 0.45rem;
+  left: 2.5rem;
+  display: flex;
+  justify-content: center;
+  gap: 0.45rem;
+}
+
+.activity-carousel__dot {
+  width: 0.55rem;
+  height: 0.55rem;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: $border-color;
+  cursor: pointer;
+
+  &.is-active {
+    background: $primary-color;
   }
 }
 
@@ -415,13 +483,31 @@ figcaption {
 }
 
 @include breakpoint(max-width $small) {
-  .activity-gallery {
-    grid-template-columns: 1fr;
+  .activity-carousel {
+    padding-right: 0;
+    padding-left: 0;
   }
 
-  .activity-card img {
-    height: auto;
-    max-height: 420px;
+  .activity-slide img {
+    height: 260px;
+  }
+
+  .activity-carousel__button {
+    top: 125px;
+    background: rgba(#fff, 0.9);
+  }
+
+  .activity-carousel__button--previous {
+    left: 0.5rem;
+  }
+
+  .activity-carousel__button--next {
+    right: 0.5rem;
+  }
+
+  .activity-carousel__dots {
+    right: 0;
+    left: 0;
   }
 }
 
