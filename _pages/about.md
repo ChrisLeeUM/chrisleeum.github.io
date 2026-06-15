@@ -10,9 +10,11 @@ redirect_from:
 
 He Li is currently a Ph.D. student in Computer Science at University of Macau. His research interests lie in robot motion planning and autonomous driving. He is advised by [Prof. Chengzhong Xu (FIEEE)](https://www.fst.um.edu.mo/personal/czxu/) and [Prof. Shuai Wang](https://people.ucas.ac.cn/~shuaiwang).
 
-He Li received his BEng degree in Electronic Science & Technology from the Southeast University in 2020, and the MSc degree in Computer Science from the University of Macau in 2024. Also, he holds the qualification of embedded system development engineer. Before joining UM, he works as a software engineer at Vivo and Nokia, successively.
+He Li received his BEng degree in Electronic Science & Technology from the Southeast University in 2020, and the MS degree in Computer Science from the University of Macau in 2024. Also, he holds the qualification of embedded system development engineer. Before joining UM, he works as a software engineer at Vivo and Nokia, successively.
 
 ## <font color=Red>News:</font> ##
+- 2026-06 &emsp; He Li attended the ICRA 2026, and presented the DCT paper.
+
 - 2026-01 &emsp; One paper got accepted by ICRA (CORE A*)!
 
 - 2026-01 &emsp; One paper got accepted by ICASSP (CCF-B)!
@@ -78,6 +80,38 @@ He Li received his BEng degree in Electronic Science & Technology from the South
   </div>
 </div>
 
+## <font color=CornflowerBlue>Academic Activities:</font> ##
+
+<div class="activity-gallery">
+  <figure class="activity-card">
+    <a href="/images/ICRA_pre.jpg" target="_blank" rel="noopener noreferrer">
+      <img src="/images/ICRA_pre.jpg" alt="Discussing direct contact-tolerant motion planning at ICRA 2026" loading="lazy" />
+    </a>
+    <figcaption>Research discussion at ICRA 2026, Vienna, Austria.</figcaption>
+  </figure>
+
+  <figure class="activity-card">
+    <a href="/images/visit_manifold.jpg" target="_blank" rel="noopener noreferrer">
+      <img src="/images/visit_manifold.jpg" alt="Visit to Manifold Tech in 2026" loading="lazy" />
+    </a>
+    <figcaption>Visit to Manifold Tech, 2026.</figcaption>
+  </figure>
+
+  <figure class="activity-card">
+    <a href="/images/best_student_with_prof_XU.jpg" target="_blank" rel="noopener noreferrer">
+      <img src="/images/best_student_with_prof_XU.jpg" alt="Best MSc Student Award with Professor Cheng-Zhong Xu in 2024" loading="lazy" />
+    </a>
+    <figcaption>Best MSc Student Award with Prof. Cheng-Zhong Xu, 2024.</figcaption>
+  </figure>
+
+  <figure class="activity-card">
+    <a href="/images/IROS_pre.jpg" target="_blank" rel="noopener noreferrer">
+      <img src="/images/IROS_pre.jpg" alt="Oral presentation at IROS 2024" loading="lazy" />
+    </a>
+    <figcaption>Oral presentation at IROS 2024, Abu Dhabi, UAE.</figcaption>
+  </figure>
+</div>
+
 ## <font color=CornflowerBlue>Awards:</font> ##
 
 - Award of Poster Presentation (top 3), Macao Symposium on Cloud Computing and Intelligent Driving (CCID), 2024
@@ -92,4 +126,4 @@ He Li received his BEng degree in Electronic Science & Technology from the South
 
 ## <font color=CornflowerBlue>Services:</font> ##
 
-Reviewer of IEEE Transactions on Systems, Man, and Cybernetics (T-SMC), IEEE Transactions on Mobile Computing (T-MC), IEEE Robotics and Automation Letters (R-AL), IROS, IEEE Open Journal of the Communications Society.
+Reviewer of IEEE Transactions on Systems, Man, and Cybernetics (T-SMC), IEEE Transactions on Mobile Computing (T-MC), IEEE Robotics and Automation Letters (R-AL), CoRL, IROS, IEEE Open Journal of the Communications Society.
