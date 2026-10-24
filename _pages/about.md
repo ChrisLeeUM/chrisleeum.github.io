@@ -95,7 +95,7 @@ He Li received his BEng degree in Electronic Science & Technology from the South
 ## <font color=CornflowerBlue>Services:</font> ##
 
 - **Journal Reviewer:** IEEE Transactions on Systems, Man, and Cybernetics (T-SMC), IEEE Transactions on Mobile Computing (T-MC), IEEE Robotics and Automation Letters (R-AL), IEEE Open Journal of the Communications Society.
-- **Conference Reviewer:** CoRL, IROS, ICRA.
+- **Conference Reviewer:** CoRL, ICRA, IROS, ICASSP.
 - **Workshop Co-Chair:** [Workshop on Connected Embodied Intelligence (CoEI)](https://coei-workshop.github.io/).
 
 ## <font color=CornflowerBlue>Academic Activities:</font> ##
